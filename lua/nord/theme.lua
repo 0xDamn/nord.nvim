@@ -351,7 +351,7 @@ theme.loadTreeSitter = function()
 	treesitter.TSStringEscape = { fg = nord.nord15_gui, style = italic } -- For escape characters within a string.
 	treesitter.TSCharacter = { fg = nord.nord14_gui, style = italic } -- For characters.
 
-	treesitter["@comment"] = { fg = nord.nord3_gui_bright, style = italic }
+	treesitter["@comment"] = { fg = nord.nord3_gui_bright_white, style = italic }
 	treesitter["@conditional"] = { fg = nord.nord9_gui, style = italic }
 	treesitter["@function"] = { fg = nord.nord8_gui, style = italic }
 	treesitter["@method"] = { fg = nord.nord8_gui, style = italic }
