@@ -1,6 +1,11 @@
 
 ## This is a fork version from shaunsingh/nord.nvim
 ## Improving the **Comment** color lightness for heavy comments codebase
+
+Comparing two comment colors below:
+
+![cmp-pic](https://raw.githubusercontent.com/0xDamn/nord.nvim/.github/images/Comment-Comparing.png)
+
 ---
 # shaunsingh/nord.nvim
 
