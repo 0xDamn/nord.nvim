@@ -4,7 +4,7 @@
 
 Comparing two comment colors below:
 
-![cmp-pic](https://raw.githubusercontent.com/0xDamn/nord.nvim/.github/images/Comment-Comparing.png)
+![cmp-pic](.github/images/Comment-Comparing.png)
 
 ---
 # shaunsingh/nord.nvim
