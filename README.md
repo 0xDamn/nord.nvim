@@ -1,7 +1,6 @@
 
 ## This is a fork version from shaunsingh/nord.nvim
-## Adding customed color for MacOS/alacritty
-
+## Improving the **Comment** color lightness for heavy comments codebase
 ---
 # shaunsingh/nord.nvim
 
