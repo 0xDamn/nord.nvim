@@ -2,9 +2,9 @@
 ## This is a fork version from shaunsingh/nord.nvim
 ## Improving the **Comment** color lightness for heavy comments codebase
 
-Comparing two comment colors below:
-Left Side: New color in this repo
-Right Side: Original color forked from
+Comparing two comment colors below:  
+- Left Side: New color in this repo  
+- Right Side: Original color forked from  
 
 ![cmp-pic](.github/images/Comment-Comparing.png)
 
